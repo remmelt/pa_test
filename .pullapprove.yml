@@ -1,7 +1,7 @@
 approve_by_comment: true
 approve_regex: '^(Approv|LGTM|:\+1:|:thumbsup:)'
 author_approval: ignored
-reject_regex: '^(Reject|:-1:|:thumbsdown:)'
+reject_regex: '^(Reject|:-1:)'
 reset_on_push: true
 reviewers:
   -
