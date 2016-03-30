@@ -1,6 +1,6 @@
 approve_by_comment: true
 approve_regex: '^(Approv|LGTM)'
-author_approval: ignored
+author_approval: default
 reject_regex: '^(Reject)'
 reset_on_push: true
 reviewers:
