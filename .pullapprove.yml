@@ -5,10 +5,6 @@ reject_regex: ^(Reject|:-1:|:thumbsdown:)
 reset_on_push: true
 reviewers:
   members:
-  - alex-glv
-  - frankscholten
-  - mwl
   - remmelt
-  - sadovnikov
   name: default
   required: 1
